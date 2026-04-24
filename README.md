@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikitasGiakk
 - 📍 I live in Rennes
-- 🐍 I’m currently learning Python
+- 🎓 I'm a high school student
 - 🏃 I love running
 - 🇬🇷 I'm Greek
